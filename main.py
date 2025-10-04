@@ -5,9 +5,9 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # Global configuration
-SHOW_FULL_LIST = False  # Set to True to see all configurations, False for just breakdown
+SHOW_FULL_LIST = 1  # Set to True to see all configurations, False for just breakdown
 SHOW_SIZE_LABELS = True  # Set to True to show "1:", "2:", etc., False for just numbers
-COUNT_UP_TO = 12
+COUNT_UP_TO = 6
 
 
 class CliqueConfiguration:
