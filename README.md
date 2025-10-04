@@ -17,7 +17,7 @@ For example, for `n = 3`:
 
 The count follows the recurrence relation: **a_{n+1} = 3*a_n - 1**, or equivalently **a_n = (3^n + 1) / 2**.
 
-![Clique Configurations](clique%20list.png)
+![Clique Configurations](clique%20list%202.png)
 
 ```bash
 pip install colorama
